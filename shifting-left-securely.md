@@ -190,3 +190,23 @@ end
 ![fit](images/audit-theater.jpg)
 
 ^ The benefit of this is that we are in a state of continuous compliance. We don't have audit theatre.
+
+---
+## To Review
+- Treat your pipeline as code
+- Trust (but verify) your domain experts
+- Focus on the what, not the how. Outcomes, outcomes, outcomes.
+- Use your production audit tests in your pipeline
+- Did I mention test?
+
+---
+![right](images/micdrop.gif)
+# Questions?
+---
+
+##resources
+- Sidney Dekker - *Field Guide to Human Error*
+- github.com/mattstratton/speaking
+- twitter.com/mattstratton
+- speakerdeck.com/mattstratton
+- arresteddevops.com
